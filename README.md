@@ -11,11 +11,11 @@
 ---
 
 ## Wiki Navigation
-* **[[Home|wiki/Home.md]]** — Overview & Quick Links
-* **[[01. Ecology & Remote Sensing Methodology|wiki/01-Ecology-and-Remote-Sensing-Methodology.md]]** — Warm-Season $\text{C}_4$ Rain-Pulse Clustering, Spectral Indices ($\text{MSAVI}$, $\text{NDRE}$, $\text{NDWI}$), and 3-Tier Decision Rules
-* **[[02. Pipeline Architecture & CLI Reference|wiki/02-Pipeline-Architecture-and-CLI-Reference.md]]** — Module Architecture, Subcommands, and Output File Specifications
-* **[[03. Compilation & Deployment Guide|wiki/03-Compilation-and-Deployment-Guide.md]]** — Building the Standalone Linux Binary (`dist/buffel-mapper`)
-* **[[04. Field Validation & Calibration Protocol|wiki/04-Field-Validation-and-Calibration-Protocol.md]]** — Ground-Truthing Survey Schema & Threshold Optimization
+* **[Home](wiki/Home.md)** — Overview & Quick Links
+* **[01. Ecology & Remote Sensing Methodology](wiki/01-Ecology-and-Remote-Sensing-Methodology.md)** — Warm-Season $\text{C}_4$ Rain-Pulse Clustering, Spectral Indices ($\text{MSAVI}$, $\text{NDRE}$, $\text{NDWI}$), and 3-Tier Decision Rules
+* **[02. Pipeline Architecture & CLI Reference](wiki/02-Pipeline-Architecture-and-CLI-Reference.md)** — Module Architecture, Subcommands, and Output File Specifications
+* **[03. Compilation & Deployment Guide](wiki/03-Compilation-and-Deployment-Guide.md)** — Building the Standalone Linux Binary (`dist/buffel-mapper`)
+* **[04. Field Validation & Calibration Protocol](wiki/04-Field-Validation-and-Calibration-Protocol.md)** — Ground-Truthing Survey Schema & Threshold Optimization
 
 ---
 

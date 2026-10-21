@@ -1,6 +1,6 @@
 # 03. Compilation & Deployment Guide (Linux)
 
-**Navigation:** [[Home|Home.md]] | [[01. Methodology|01-Ecology-and-Remote-Sensing-Methodology.md]] | [[02. Architecture & CLI|02-Pipeline-Architecture-and-CLI-Reference.md]] | **03. Compilation** | [[04. Field Validation|04-Field-Validation-and-Calibration-Protocol.md]]
+**Navigation:** [Home](Home.md) | [01. Methodology](01-Ecology-and-Remote-Sensing-Methodology.md) | [02. Architecture & CLI](02-Pipeline-Architecture-and-CLI-Reference.md) | **03. Compilation** | [04. Field Validation](04-Field-Validation-and-Calibration-Protocol.md)
 
 ---
 

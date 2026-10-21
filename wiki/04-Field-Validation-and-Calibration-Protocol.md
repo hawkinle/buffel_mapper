@@ -1,6 +1,6 @@
 # 04. Field Validation & Calibration Protocol
 
-**Navigation:** [[Home|Home.md]] | [[01. Methodology|01-Ecology-and-Remote-Sensing-Methodology.md]] | [[02. Architecture & CLI|02-Pipeline-Architecture-and-CLI-Reference.md]] | [[03. Compilation|03-Compilation-and-Deployment-Guide.md]] | **04. Field Validation**
+**Navigation:** [Home](Home.md) | [01. Methodology](01-Ecology-and-Remote-Sensing-Methodology.md) | [02. Architecture & CLI](02-Pipeline-Architecture-and-CLI-Reference.md) | [03. Compilation](03-Compilation-and-Deployment-Guide.md) | **04. Field Validation**
 
 ---
 
