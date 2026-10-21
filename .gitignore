@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Build & Compilation Outputs
+build/
+dist/
+*.spec
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archived Legacy Workings & Local Runs (Kept safely on disk, untracked by Git)
+_archive/
+clean_pipeline/
+notebooklm_sources/
+groundtruthing/
+projects/
+
+# OS & Editor Files
+.DS_Store
+.vscode/
+.idea/
+*.swp

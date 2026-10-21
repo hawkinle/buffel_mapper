@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "buffel-mapper"
+version = "1.0.0"
+description = "Warm-Season Rain-Pulse Remote Sensing & 3-Tier Weed Management Pipeline for Buffel Grass (Cenchrus ciliaris)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+    "numpy",
+    "pandas",
+    "xarray",
+    "rioxarray",
+    "rasterio",
+    "geopandas",
+    "shapely",
+    "pyproj",
+    "pystac-client",
+    "planetary-computer",
+    "matplotlib",
+    "pillow",
+    "requests",
+    "dask",
+]
+
+[project.scripts]
+buffel-mapper = "buffel_mapper.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
